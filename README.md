@@ -65,6 +65,12 @@ src/
 
 ---
 
+
+📂 **Database Script**: `hotel_db.sql`  
+📌 Import this into MySQL before running the project.
+
+
+
 ## 🚀 How to Run
 
 1. Clone this repository or download ZIP  
@@ -85,7 +91,7 @@ src/
 
 > 👨‍💻 Standard User  
 > Username: `sign up email`  
-> Password: `sign up password`  
+> Password: `sign up password`
 
 
 ---
